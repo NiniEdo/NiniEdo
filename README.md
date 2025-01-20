@@ -25,7 +25,8 @@ src="https://img.shields.io/github/followers/NiniEdo?logo=github&style=for-the-b
   <a href="https://github.com/NiniEdo/GameBoyEmu" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NiniEdo&repo=GameBoyEmu&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   <a href="https://github.com/NiniEdo/nbodyproblem" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NiniEdo&repo=nbodyproblem&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
   
-  <b>My contributions</b>
+<b>My contributions</b>
+  
 <picture>
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
 </picture>
